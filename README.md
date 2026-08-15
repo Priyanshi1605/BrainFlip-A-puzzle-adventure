@@ -4,7 +4,7 @@ BrainFlip is an interactive, immersive web-based puzzle adventure game designed 
 
 ## 🚀 Live Demo
 Check out the live deployment of the game here:
-👉 **[Play BrainFlip Live](https://github.io)**
+👉 **(https://priyanshi1605.github.io/BrainFlip-A-puzzle-adventure/)**
 
 ---
 
